@@ -1,6 +1,8 @@
+<div><img align="right" alt="AI" height="250" width="1200" src="https://raw.githubusercontent.com/Rohith-S7/Rohith/main/download1.jpeg">
+</div>
+
 <h1 align="center">Hi 👋, I'm Rohith S</h1>
 <h3 align="center">Data Scientist</h3>
-<img align="right" alt="AI" width="400" src="https://raw.githubusercontent.com/Rohith-S7/repository/main/download1">
 
 📍 **Location**: Bangalore  
 📧 **Email**: [07rohith7@example.com](mailto:07rohith7@example.com)  
